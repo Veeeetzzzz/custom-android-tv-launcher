@@ -1,6 +1,12 @@
 # Glass TV Companion
 
+
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/f1f58172-1cb5-473c-9fb2-c2b0d24ca8d3" />
+
 Create a quiet, personal Home screen for an Android TV or Google TV from your Windows PC.
+
+<img width="1113" height="872" alt="image" src="https://github.com/user-attachments/assets/68a72461-5799-46a6-90d2-cee12e6baa1a" />
+
 
 ## Start here
 
